@@ -1,0 +1,18 @@
+.checked {
+  color: rgb(31, 115, 194);
+}
+.txtTitles {
+  color: rgb(6, 44, 80);
+}
+.skills {
+  font-weight: bold;
+}
+.hobbiesIMG {
+  box-sizing: content-box;
+  width: 300px;
+  padding: 5px;
+}
+.hobbiesTXT {
+  font-size: x-large;
+  font-weight: bold;
+}
